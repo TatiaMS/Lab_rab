@@ -1,3 +1,7 @@
 ﻿Конец сессии
 ура
+<<<<<<< HEAD
 it's wonderful
+=======
+it's wonderful
+>>>>>>> ad0727d671b5339e916c2a443fcea59d78fd46f9
